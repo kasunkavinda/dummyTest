@@ -1,7 +1,7 @@
 const Dummy1 = (props) => {
   return (
     <div>
-      <h1>{props.text}</h1>
+      <h2>{props.text}</h2>
     </div>
   );
 };
